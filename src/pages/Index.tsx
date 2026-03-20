@@ -240,7 +240,7 @@ export default function Index() {
           <h4>Контакты</h4>
           <ul>
             <li><a href="https://wa.me/79328413213" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>+7 (932) 841-32-13</a></li>
-            <li>info@rollpizza.ru</li>
+            <li><a href="https://vk.com/id1061142304" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>ВКонтакте</a></li>
           </ul>
         </div>
       </footer>
