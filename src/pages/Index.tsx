@@ -241,6 +241,7 @@ export default function Index() {
           <h4>Часы работы</h4>
           <ul>
             <li>Ежедневно: 11:00 – 23:00</li>
+            <li>Без выходных и перерывов</li>
           </ul>
         </div>
         <div className="footer-links">
