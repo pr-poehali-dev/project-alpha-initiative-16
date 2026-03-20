@@ -4,7 +4,7 @@ export default function Index() {
       <div className="grain-overlay" />
 
       <header className="header">
-        <div className="logo">ROLL*PIZZA</div>
+        <div className="logo">ROLL*TIME</div>
         <nav>
           <a href="#">Меню</a>
           <a href="#">О нас</a>
@@ -164,7 +164,7 @@ export default function Index() {
 
         <section className="section-padding">
           <h2 className="section-title" style={{ marginBottom: "40px", textAlign: "center" }}>
-            @ROLL.PIZZA
+            @ROLL.TIME
           </h2>
           <div className="social-grid">
             <div className="social-item">
@@ -197,7 +197,7 @@ export default function Index() {
 
       <footer>
         <div>
-          <div className="footer-logo">ROLL*PIZZA</div>
+          <div className="footer-logo">ROLL*TIME</div>
           <p style={{ color: "#666", lineHeight: 1.6 }}>
             Самые вкусные роллы и пицца в городе. Свежие ингредиенты, ретро-атмосфера и вкус, который запоминается.
           </p>
