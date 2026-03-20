@@ -11,7 +11,7 @@ export default function Index() {
           <a href="#">Акции</a>
           <a href="#">Контакты</a>
         </nav>
-        <button className="btn-cta">Заказать</button>
+        <a href="https://wa.me/79328413213" target="_blank" rel="noopener noreferrer"><button className="btn-cta">Заказать</button></a>
       </header>
 
       <main>
@@ -26,9 +26,11 @@ export default function Index() {
               Самые сочные роллы и хрустящая пицца в ретро-атмосфере. Только свежие ингредиенты, только огонь вкус.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 sm:gap-5">
-              <button className="btn-cta" style={{ background: "var(--primary)", color: "white" }}>
-                Заказать сейчас
-              </button>
+              <a href="https://wa.me/79328413213" target="_blank" rel="noopener noreferrer">
+                <button className="btn-cta" style={{ background: "var(--primary)", color: "white" }}>
+                  Заказать сейчас
+                </button>
+              </a>
               <button className="btn-cta" style={{ background: "white" }}>
                 Смотреть меню
               </button>
@@ -237,7 +239,7 @@ export default function Index() {
         <div className="footer-links">
           <h4>Контакты</h4>
           <ul>
-            <li>+7 (000) 000-00-00</li>
+            <li><a href="https://wa.me/79328413213" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>+7 (932) 841-32-13</a></li>
             <li>info@rollpizza.ru</li>
           </ul>
         </div>
